@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Testing2</string>
+    <string name="text1">Bus Logo</string>
+    <string name="text2">Welcome to Bus Booking App</string>
+    <string name="book_now">Book Now</string>
+    <string name="book_your_bus">Book Your Bus</string>
+    <string name="select_date">Select Date</string>
+    <string name="mm_dd_yyyy">MM/DD/YYYY</string>
+    <string name="proceed_with_booking">Choose Bus</string>
+    <string name="mm_dd_yyyy1">MM/DD/YYYY</string>
+    <string name="confirm_selection">Confirm Selection</string>
+    <string name="price_0">Price: $0</string>
+    <string name="deluxe_30">Deluxe - $30</string>
+    <string name="express_20">Express - $20</string>
+    <string name="normal_10">Normal - $10</string>
+    <string name="select_bus_type">Select Bus Type</string>
+    <string name="select_destination">Select Destination</string>
+    <string name="choose_bus">Choose Bus</string>
+    <string name="choose_bus1">Choose Bus</string>
+</resources>
